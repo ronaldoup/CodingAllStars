@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.5",
+        "ivopetkov/html5-dom-document-php": "^2.5",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0",
+        "erusev/parsedown": "^1.7"
+
+    }
+}
